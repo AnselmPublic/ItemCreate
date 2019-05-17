@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_92"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/AgileAPI.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="lib/pxapi.jar"/>
+	<classpathentry kind="lib" path="lib/AnselmTool.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
